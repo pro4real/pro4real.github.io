@@ -24,15 +24,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Tech Expert Academy
+email: prossk4real@yahoo.com
+author: TEA
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
 # * current year: {currentYear}
 # * author: {author} (Value is the same as site.author)
-# * copyright: (c) - ©
+# * copyright: "unpublished work(cleft) 2022- {current year} {author}"  > ©
 # * copyleft: (cleft)
 # * sound recording copyright: (p) - ℗
 #
