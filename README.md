@@ -12,12 +12,13 @@ Template to build a versatile blog forked from [jeffreytse](https://github.com/j
     1. upload the file (ideally *.jpeg*) to [assets/images/banners/](assets/images/banners/)
     2. change the entry for *banner* in [index.html](index.html) such that it points to your image of choice
 4. Go to [_config.yml](_config.yml) and change the values for
-    1. title
-    2. email
-    3. author
-    4. copyright
-    5. description
-    6. favicon
+   
+   
+ 
+
+    3. copywrit
+    6. description
+    7. favicon
 5. Got to [about.md](about.md) and tell the world who you are
     1. To do so, look up the markdown syntax in some [guide](https://www.markdownguide.org/basic-syntax/)
 6. Go to [_posts](_posts) and add you first post
